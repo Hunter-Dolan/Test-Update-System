@@ -1,4 +1,4 @@
 <?php
 //I am version
-$v="1.5"
+$version="1.6"
 ?>
